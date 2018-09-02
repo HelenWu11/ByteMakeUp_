@@ -1,0 +1,44 @@
+body {
+	background-color: white;
+	background-image: url("makeup.JPG");
+	background-repeat: no-repeat;
+	background-color:white;
+	top: 0 px;
+	right: 0 px;
+	width: 100%;
+    height:100%;
+	position:absolute;
+}
+
+p{
+	text-align:center;
+	font-family: "Great Vibes", Helvetica, sans-serif;
+	font-style: bold;
+	font-size: 18pt;
+}
+
+#container {
+    width: 700px;
+    height: 530px;
+    border: 5px black dotted;
+	right:70px;
+	top:40px;
+	position: absolute;
+}
+
+#videoElement {
+    width: 700px;
+    height: 500px;
+	right:0px;
+	top:10px;
+	position: absolute;
+}
+
+
+#label{
+	top: 0px;
+	left: 45px;
+	width: 400px;
+    height: 100%;
+	position:absolute;
+}
